@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetSaverCore", "Core\AssetSaverCore.csproj", "{22AD0565-F8CB-431E-8EA5-63B816B293AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetSaverTests", "Tests\AssetSaverTests.csproj", "{38E9BF89-5F6A-4503-8445-FF84A609B3F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22AD0565-F8CB-431E-8EA5-63B816B293AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AD0565-F8CB-431E-8EA5-63B816B293AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AD0565-F8CB-431E-8EA5-63B816B293AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AD0565-F8CB-431E-8EA5-63B816B293AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E9BF89-5F6A-4503-8445-FF84A609B3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E9BF89-5F6A-4503-8445-FF84A609B3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E9BF89-5F6A-4503-8445-FF84A609B3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E9BF89-5F6A-4503-8445-FF84A609B3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
